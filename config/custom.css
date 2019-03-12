@@ -1,0 +1,80 @@
+body{
+    background-image:url("http://image.noelshack.com/fichiers/2017/03/1484576470-background.png")
+    
+}
+li[id$="-userlist-user-silvaa"]{
+    background:url("https://orig00.deviantart.net/86ff/f/2012/311/e/8/free_chikorita_icon_by_umbradesigns-d5kbkoy.gif")right no-repeat
+    
+}
+li[id$="-userlist-user-pinkislit"]{
+    background:url("https://orig00.deviantart.net/86ff/f/2012/311/e/8/free_chikorita_icon_by_umbradesigns-d5kbkoy.gif")right no-repeat
+}
+li#lobby-userlist-user-pikashi {
+    background: url("http://i.imgur.com/b09uaNq.gif")right no-repeat
+}
+li[id$="-userlist-user-gr8tone"]{
+    background:url("https://www.pokepedia.fr/images/8/8f/Miniat_6_r_384M.png")right no-repeat
+}
+li[id$="-userlist-user-imperatorcaesar"]{
+    background:url("https://www.pokepedia.fr/images/8/8f/Miniat_6_r_384M.png")right no-repeat
+}
+li#lobby-userlist-user-imeridian {
+    background: url(https://www.pokepedia.fr/images/1/10/Miniat_5_n_637.gif)right no-repeat;
+}
+li#lobby-userlist-user-saitochibot {
+    background: url(https://www.pokepedia.fr/images/3/39/Miniat_5_n_649.gif)right no-repeat;
+}
+
+.button,.popupmenu button.button, 
+.button.cur, .button.cur:hover{
+    color:#00f
+    
+}
+.userlist-maximized {
+	height: auto;
+	bottom: 0;
+	overflow: auto;
+	background: #333333;
+}
+.userlist-minimized {
+	height: 21px;
+	bottom: auto;
+	overflow: hidden;
+	background: #222222;
+	border-bottom: 1px solid #AAAAAA;
+}
+
+.userlist-minimized .userlist-count:hover,
+.userlist-maximized .userlist-count:hover {
+	background: #444444;
+}
+
+.userlist,
+.userlist li {
+	display: block;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	background: #222222;
+}
+.chat-log,.chat-log-add{
+	background:#222222;
+	color: white;
+}
+
+.header {
+	background:url(none);
+    background-color: rgba(34, 34, 34, 0.7);    
+}
+
+.maintabbarbottom{
+	background-color: rgba(34, 34, 34, 1); 
+}
+
+.menugroup {
+    background: rgba(34, 34, 34, 0.5);
+    text-align: center;
+}
+
+/*nohup node app.js 8080 & */

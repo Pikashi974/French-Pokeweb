@@ -1,0 +1,11 @@
+[2017-04-08T15:41:49.752Z] (groupchat-frenchpokewebbot-83296811) Tom laurent was promoted to Room Bot by french-pokeweb bot.
+[2017-04-08T16:15:47.116Z] (groupchat-tomlaurent-71905645) (Tom laurent was demoted to Room regular user by Tom laurent.)
+[2017-04-08T16:15:54.177Z] (groupchat-tomlaurent-71905645) Tom laurent was warned by Tom laurent.
+[2017-04-08T16:39:33.920Z] (groupchat-tomlaurent-18104263) (Tom laurent was demoted to Room regular user by Tom laurent.)
+[2017-04-08T16:39:49.003Z] (groupchat-tomlaurent-18104263) french-pokeweb bot was promoted to Bot by Tom laurent.
+[2017-04-08T16:40:54.397Z] (groupchat-tomlaurent-18104263) Tom laurent was warned by french-pokeweb bot.
+[2017-04-08T16:41:04.796Z] (groupchat-tomlaurent-18104263) french-pokeweb bot was banned from [G] 18104263 by Tom laurent. (10.240.1.15)
+[2017-04-10T08:39:39.348Z] (groupchat-tomlaurent-20733071) (french-pokeweb bot was demoted to Moderator by Tom laurent.)
+[2017-04-10T08:40:03.567Z] (groupchat-tomlaurent-20733071) french-pokeweb bot was promoted to Bot by Tom laurent.
+[2017-04-10T08:40:17.672Z] (groupchat-tomlaurent-20733071) Tom laurent was promoted to Administrator by Tom laurent.
+[2017-04-10T08:40:34.596Z] (groupchat-tomlaurent-20733071) (Tom laurent was demoted to botcommander by Tom laurent.)

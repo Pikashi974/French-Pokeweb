@@ -1,0 +1,3 @@
+[2017-04-13T21:52:52.309Z] (battle-gen7ou-178) Zokugay le chomeur set modjoin to sync with modchat.
+[2017-04-13T21:52:52.388Z] (battle-gen7ou-178) (Zokugay le chomeur set modchat to ※)
+[2017-04-13T21:52:52.389Z] (battle-gen7ou-178) Zokugay le chomeur made this room hidden.

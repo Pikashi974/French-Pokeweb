@@ -1,0 +1,17 @@
+[2017-04-08T15:26:14.909Z] (lobby) french-pokeweb bot was promoted to Room Bot by Pikashi.
+[2017-04-08T15:42:39.525Z] (lobby) Tom laurent was warned by french-pokeweb bot. (test)
+[2017-04-08T16:11:32.665Z] (lobby) (Pikashi was demoted to Room regular user by Pikashi.)
+[2017-04-08T16:13:55.381Z] (lobby) Tom laurent was promoted to botcommander by Pikashi.
+[2017-04-08T16:14:28.148Z] (lobby) Pikashi was appointed Room Owner by Pikashi.
+[2017-04-08T16:59:05.502Z] (lobby) (A game of UNO was created by Tom laurent.)
+[2017-04-08T16:59:20.627Z] (lobby) (The game of UNO was ended by Tom laurent.)
+[2017-04-08T19:57:37.534Z] (lobby) (Pikashi created a tournament in gen7ou format.)
+[2017-04-08T21:19:51.806Z] (lobby) (The tournament auto disqualify timer was set to 5 by Pikashi)
+[2017-04-08T23:54:43.104Z] (lobby) L0neraven was warned by french-pokeweb bot. (Modération Automatique: Capitalisation excessive)
+[2017-04-14T20:16:53.789Z] (lobby) Imperator Caesar was promoted to Room Moderator by Pikashi.
+[2017-04-19T12:24:20.390Z] (lobby) (Pikashi created a tournament in gen7randombattle format.)
+[2017-04-19T12:25:00.645Z] (lobby) (The tournament auto disqualify timer was set to 5 by Pikashi)
+[2017-04-21T13:12:27.588Z] (lobby) (Pikashi forcibly ended a tournament.)
+[2017-05-10T18:52:40.718Z] (lobby) (Pikashi created a tournament in gen7randombattle format.)
+[2017-05-10T19:20:53.657Z] (lobby) (Pikashi created a tournament in gen7randombattle format.)
+[2017-05-10T19:47:30.871Z] (lobby) (Pikashi created a tournament in gen7ou format.)

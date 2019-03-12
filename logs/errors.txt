@@ -1,0 +1,374 @@
+
+Error: ENOENT: no such file or directory, chmod '/home/ubuntu/workspace/logs/repl/dexsearch'
+    at Error (native)
+    at Object.fs.chmodSync (fs.js:1154:18)
+    at Server.net.createServer.listen (/home/ubuntu/workspace/repl.js:72:6)
+    at Server.g (events.js:291:16)
+    at emitNone (events.js:86:13)
+    at Server.emit (events.js:185:7)
+    at emitListeningNT (net.js:1285:10)
+    at _combinedTickCallback (internal/process/next_tick.js:71:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:581:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:507:25)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+
+Additional information:
+
+
+Error: Cannot find module 'node-static'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/ubuntu/workspace/sockets.js:264:23)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
+
+Error: bind EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at listenOnMasterHandle (net.js:1415:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+
