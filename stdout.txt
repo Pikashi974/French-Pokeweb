@@ -1,0 +1,5 @@
+NEW GLOBAL: global
+NEW CHATROOM: lobby
+NEW CHATROOM: staff
+Worker 1 now listening on 0.0.0.0:8080
+Test your server at http://localhost:8080
